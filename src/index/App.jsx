@@ -7,7 +7,7 @@ import img3 from './assets/3.jpg'
 import img7 from './assets/7.JPG'
 import img8 from './assets/8.JPG'
 import hbdSound from '../sound/hbd.mp3'
-import loveSound from '../sound/love.m4a'
+import loveSound from '../sound/Love.m4a'
 const letterParagraphs = [
   "Hi! Love,",
   "Today is all about you — your light, your laughter, and the way you make every moment feel warmer just by being in it.",
