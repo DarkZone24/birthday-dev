@@ -193,7 +193,7 @@ export default function App() {
             Happy Birthday <span>Kristen</span>
           </h1>
           <p className="lead">
-            A modern little shrine to the way you glow. Five favorite moments, a few wishes, and all the love.
+            A modern little shrine to the way you glow. Ten favorite moments, a few wishes, and all the love.
           </p>
           <div className="hero-actions">
             <button className="primary" onClick={celebrate}>
@@ -222,7 +222,7 @@ export default function App() {
 
       <section className="gallery">
         <div className="section-head">
-          <h2>Five Solo Snapshots</h2>
+          <h2>Ten Solo Snapshots</h2>
           <p>Only her. Only the best light.</p>
         </div>
         <div className="gallery-grid">
