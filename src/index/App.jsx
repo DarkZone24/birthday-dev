@@ -8,11 +8,6 @@ import img7 from './assets/7.JPG'
 import img8 from './assets/8.JPG'
 import hbdSound from '../sound/hbd.mp3'
 import loveSound from '../sound/love.m4a'
-import img9 from './assets/9.JPG'
-import img10 from './assets/10.JPG'
-import img11 from './assets/11.JPG'
-import img12 from './assets/12.JPG'
-import img13 from './assets/13.JPG'
 const letterParagraphs = [
   "Hi! Love,",
   "Today is all about you — your light, your laughter, and the way you make every moment feel warmer just by being in it.",
@@ -36,12 +31,7 @@ export default function App() {
       { src: img2, alt: 'Kristen portrait 2' },
       { src: img3, alt: 'Kristen portrait 3' },
       { src: img7, alt: 'Kristen portrait 4' },
-      { src: img8, alt: 'Kristen portrait 5' },
-      { src: img9, alt: 'Kristen portrait 6' },
-      { src: img10, alt: 'Kristen portrait 7' },
-      { src: img11, alt: 'Kristen portrait 8' },
-      { src: img12, alt: 'Kristen portrait 9' },
-      { src: img13, alt: 'Kristen portrait 10' }
+      { src: img8, alt: 'Kristen portrait 5' }
     ],
     []
   )
@@ -372,5 +362,6 @@ export default function App() {
     </div>
   )
 }
+
 
 
