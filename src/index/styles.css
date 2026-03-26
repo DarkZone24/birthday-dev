@@ -1072,10 +1072,18 @@ img {
   .footer {
     padding: 50px 6vw 60px;
     gap: 18px;
+    justify-items: start;
   }
 
   .footer-image {
     height: 200px;
+    width: 100%;
+    max-width: 100%;
+    border-radius: 20px;
+  }
+
+  .qr-card {
+    width: 140px;
   }
 }
 .letter-card-main {
