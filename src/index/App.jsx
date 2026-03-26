@@ -183,7 +183,7 @@ export default function App() {
             Happy Birthday <span>Kristen</span>
           </h1>
           <p className="lead">
-            A modern little shrine to the way you glow. Ten favorite moments, a few wishes, and all the love.
+            A modern little shrine to the way you glow. Five favorite moments, a few wishes, and all the love.
           </p>
           <div className="hero-actions">
             <button className="primary" onClick={celebrate}>
@@ -199,7 +199,7 @@ export default function App() {
 
         <div className="hero-collage">
           <div className="frame tall">
-            <img src={images[8].src} alt={images[8].alt} />
+            <img src={images[0].src} alt={images[0].alt} />
           </div>
           <div className="frame wide">
             <img src={images[4].src} alt={images[4].alt} />
@@ -212,7 +212,7 @@ export default function App() {
 
       <section className="gallery">
         <div className="section-head">
-          <h2>Ten Solo Snapshots</h2>
+          <h2>Five Solo Snapshots</h2>
           <p>Only her. Only the best light.</p>
         </div>
         <div className="gallery-grid">
@@ -325,7 +325,7 @@ export default function App() {
           <p>Scan for the surprise</p>
         </div>
         <div className="footer-image">
-          <img src={images[5].src} alt={images[5].alt} />
+          <img src={images[4].src} alt={images[4].alt} />
         </div>
       </footer>
 
